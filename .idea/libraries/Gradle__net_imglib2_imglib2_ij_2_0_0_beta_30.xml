@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.imglib2:imglib2-ij:2.0.0-beta-30">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/imglib2/imglib2-ij/2.0.0-beta-30/imglib2-ij-2.0.0-beta-30.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/imglib2/imglib2-ij/2.0.0-beta-30/imglib2-ij-2.0.0-beta-30-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

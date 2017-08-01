@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: edu.ucar:udunits:4.3.18">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/ucar/udunits/4.3.18/udunits-4.3.18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

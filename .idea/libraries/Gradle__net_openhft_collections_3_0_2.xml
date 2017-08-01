@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.openhft:collections:3.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.openhft/collections/3.0.2/ca2e70220ac34d278a4f8a01c990e436bbbba32c/collections-3.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.openhft/collections/3.0.2/e80657328375853e97f5239d66f4ca21cf51b894/collections-3.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

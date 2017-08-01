@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="testConvert:test" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="false">
+    <output-test url="file://$MODULE_DIR$/../../build/classes/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="testConvert_main" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-collections4:4.0" level="project" />
+    <orderEntry type="library" name="Gradle: commons-io:commons-io:2.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-lang3:3.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-math3:3.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.logging.log4j:log4j-api:2.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.logging.log4j:log4j-core:2.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:guava:18.0" level="project" />
+    <orderEntry type="library" name="Gradle: net.sf.trove4j:trove4j:3.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jscience:jscience:4.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: de.mukis:de.mukis.jama:2.0.0.M1" level="project" />
+    <orderEntry type="library" name="Gradle: com.googlecode.efficient-java-matrix-library:ejml:0.25" level="project" />
+    <orderEntry type="library" name="Gradle: java3d:vecmath:1.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: net.openhft:lang:6.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: net.openhft:affinity:2.0.6" level="project" />
+    <orderEntry type="library" name="Gradle: net.openhft:collections:3.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: net.openhft:chronicle:3.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.python:jython:2.7-rc2" level="project" />
+    <orderEntry type="library" name="Gradle: com.fifesoft:rsyntaxtextarea:2.5.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.reflections:reflections:0.9.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-all:indy:2.4.3" level="project" />
+    <orderEntry type="library" name="Gradle: javax.mail:mail:1.4.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.controlsfx:controlsfx:8.40.11" level="project" />
+    <orderEntry type="library" name="Gradle: de.jensd:fontawesomefx:8.9" level="project" />
+    <orderEntry type="library" name="Gradle: net.imglib2:imglib2-ui:2.0.0-beta-28" level="project" />
+    <orderEntry type="library" name="Gradle: net.imglib2:imglib2-ij:2.0.0-beta-30" level="project" />
+    <orderEntry type="library" name="Gradle: net.imglib2:imglib2-algorithm:0.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.scif:scifio:0.32.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Gradle: com.nativelibs4java:bridj:0.7.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.nativelibs4java:javacl:1.0.0-RC4" level="project" />
+    <orderEntry type="library" name="Gradle: net.rtlib:Mirao52J:1.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: net.rtlib:ASDKJ:1.0" level="project" />
+    <orderEntry type="library" name="Gradle: net.rtlib:DcamJ:1.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: net.clearcontrol:AndorSDKJ:0.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.sarxos:webcam-capture:0.3.9" level="project" />
+    <orderEntry type="library" name="Gradle: net.rtlib:ECC100J:1.0" level="project" />
+    <orderEntry type="library" name="Gradle: net.rtlib:NIRIOJ:1.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.6.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.javolution:javolution:5.2.3" level="project" />
+    <orderEntry type="library" name="Gradle: net.java.dev.jna:jna-platform:4.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.kohsuke.jetbrains:annotations:9.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.intellij:annotations:12.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.javassist:javassist:3.18.2-GA" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.findbugs:annotations:2.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: javax.activation:activation:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: net.imglib2:imglib2-realtransform:2.0.0-beta-28" level="project" />
+    <orderEntry type="library" name="Gradle: net.imagej:ij:1.49p" level="project" />
+    <orderEntry type="library" name="Gradle: gov.nist.math:jama:1.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: io.scif:scifio-jai-imageio:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.scijava:scijava-common:2.62.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.mapdb:mapdb:1.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.tools:dx:1.7" level="project" />
+    <orderEntry type="library" name="Gradle: com.jhlabs:filters:2.0.235-1" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.scijava:scijava-expression-parser:3.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.googlecode.gentyref:gentyref:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.bushe:eventbus:1.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.nativelibs4java:javacl-core:1.0.0-RC4" level="project" />
+    <orderEntry type="library" name="Gradle: com.nativelibs4java:opencl4java:1.0.0-RC4" level="project" />
+    <orderEntry type="library" name="Gradle: com.nativelibs4java:nativelibs4java-utils:1.6" level="project" />
+    <orderEntry type="library" name="Gradle: net.openhft:compiler:2.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: net.imglib2:imglib2:3.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: net.imagej:imagej-common:0.24.2" level="project" />
+    <orderEntry type="library" name="Gradle: edu.ucar:udunits:4.3.18" level="project" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.13-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Gradle: net.java.dev.jna:jna:4.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: net.imglib2:imglib2-roi:0.4.4" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="testConvert_main" />
+</module>

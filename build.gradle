@@ -1,0 +1,83 @@
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'idea'
+apply plugin: 'maven'
+
+
+
+sourceSets {
+    main
+    {
+        java
+        { srcDir 'src' }
+        resources
+        { srcDir 'src' }
+    }
+    test
+    {
+        java
+        { srcDir 'src' }
+        resources
+        { srcDir 'src' }
+    }
+}
+
+
+
+sourceCompatibility = 1.8
+
+dependencies 
+{
+
+
+    // imglib2:
+    compile ('net.imglib2:imglib2:2.2.0'){transitive = true}
+    compile ('net.imglib2:imglib2-ui:2.0.0-beta-28'){transitive = true}
+    compile ('net.imglib2:imglib2-ij:2.0.0-beta-30'){transitive = true}
+    compile ('net.imglib2:imglib2-algorithm:0.2.1'){transitive = true}
+    
+    // scifio:
+    compile ('io.scif:pom-scifio:[5.8.0,)'){transitive = true}
+    compile ('io.scif:scifio:[0.21.0,)'){transitive = true}
+
+    // Bridj and co:
+    compile 'com.nativelibs4java:bridj:0.7.0'
+    compile 'com.nativelibs4java:javacl:1.0.0-RC4'
+
+
+
+}
+
+
+repositories 
+{
+    // main repos:
+
+    mavenLocal()
+    mavenCentral()
+    // maven {url "C:\\Users\\myersadmin\\.m2\\repository"}
+    maven { url "http://oss.sonatype.org/content/groups/public"} 
+    maven { url "http://mvnrepository.com/artifact" }
+
+    // ClearControl:
+    maven { url  "http://dl.bintray.com/clearcontrol/ClearControl"  }
+
+    // ClearVolume: 
+    maven { url "http://dl.bintray.com/clearvolume/ClearVolume" }
+
+    //imglib2:
+    maven { url  "http://maven.imagej.net/content/repositories/releases" }
+    maven { url  "http://maven.imagej.net/content/repositories/snapshots" }
+    maven { url "https://artifacts.unidata.ucar.edu/content/repositories/unidata-releases/" }
+    
+    //jfxtras:
+    maven { url "https://mvnrepository.com/artifact/org.jfxtras/jfxtras-labs" }
+    
+    //FontAwesome:
+    maven { url "https://bintray.com/jerady/maven/FontAwesomeFX/view"}
+    
+    //Sqeazy:
+    maven {url  "http://dl.bintray.com/psteinb/maven" }
+
+}

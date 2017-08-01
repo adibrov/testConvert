@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.imglib2:imglib2-ui:2.0.0-beta-28">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.imglib2/imglib2-ui/2.0.0-beta-28/bcb889f9e6f18a92a17bdcd0531ce1e1c5e3b7b5/imglib2-ui-2.0.0-beta-28.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.imglib2/imglib2-ui/2.0.0-beta-28/2675199d0e863d0bea8373a5c44c6915b8bad619/imglib2-ui-2.0.0-beta-28-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

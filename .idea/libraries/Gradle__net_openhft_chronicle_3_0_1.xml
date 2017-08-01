@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.openhft:chronicle:3.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.openhft/chronicle/3.0.1/d608293319d571d49cf3d85f9fdec00dc10ca560/chronicle-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.openhft/chronicle/3.0.1/c49fe680f5c7617762ce9dabab0615552a440650/chronicle-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.nativelibs4java:bridj:0.7.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/nativelibs4java/bridj/0.7.0/bridj-0.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
